@@ -38,14 +38,18 @@ With the $ARTHA token as our guiding star, we aspire to redefine the crypto land
 
 ## Quick links
 
-{% content-ref url="overview/history.md" %}
-[history.md](overview/history.md)
-{% endcontent-ref %}
-
 {% content-ref url="overview/tokenomics.md" %}
 [tokenomics.md](overview/tokenomics.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-plans..md" %}
 [our-plans..md](overview/our-plans..md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/team.md" %}
+[team.md](overview/team.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/history.md" %}
+[history.md](overview/history.md)
 {% endcontent-ref %}
