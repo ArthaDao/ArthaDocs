@@ -49,19 +49,3 @@ With the $ARTHA token as our guiding star, we aspire to redefine the crypto land
 {% content-ref url="overview/our-plans..md" %}
 [our-plans..md](overview/our-plans..md)
 {% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/tba/" %}
-[tba](fundamentals/tba/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tba/tba.md" %}
-[tba.md](fundamentals/tba/tba.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tba/tba-1.md" %}
-[tba-1.md](fundamentals/tba/tba-1.md)
-{% endcontent-ref %}
