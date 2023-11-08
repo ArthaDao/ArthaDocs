@@ -14,7 +14,7 @@ description: Build of the ARTHA Empire
 
 We started our community on [**Telegram**](https://t.me/ArthaDao), just like every token out there, and soon realised that it was getting overwhelmingly filled with folks who were not part of the project. So a decision was made to get the community token gated. We used the toolset provided by [Collab Land](https://docs.collab.land/docs/tutorials/token-gating-tutorial) to allow only folks with a minimum number of $ARTHA tokens entry to the community chat.&#x20;
 
-This is a radical move to test the waters of the use of token gating for early tokens to get focussed engagement from the community of holders. We will tweak and change this as per our needs and as per our growth success.&#x20;
+This is a radical move to test the waters of the use of token gating to get focused engagement from the community of holders. We will tweak and change this as per our needs and as per our growth success.&#x20;
 
 
 
