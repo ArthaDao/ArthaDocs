@@ -4,7 +4,7 @@ description: Current team structure
 
 # 💂 Team
 
-[**Kautilya**](https://t.me/MauryanMinister) (Founder)
+[**Kautilya**](https://t.me/MauryanMinister) (Founder/Guardian)
 
 [**Erik**](https://t.me/Eldgrimm8041) (Guardian)
 
